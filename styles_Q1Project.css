@@ -1,0 +1,45 @@
+
+	body {background-color: white;
+			background-image: url(https://static.vecteezy.com/system/resources/thumbnails/008/023/852/small_2x/abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg);
+			background-size: 100px;
+			backdrop-filter: blur(10px);
+			background-size: cover;
+			align-items: center; font-family: serif;
+		}
+
+	p {color: white;}
+
+	.box {
+	background-color: #fff;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+	}
+
+	input[type= "submit"] {
+		background-color: #3f00ff; 
+		color: white;
+		width: 400px; 
+		height: 50px;
+		border-radius: 15px;
+		font-size: 25px;
+		border: none;
+		}
+
+	h2 {font-size: 30px;}
+	h4 {font-size: 25px; color: white;}
+	h3 {color: white;}
+	ol {font-size: 40px}
+	ul {font-size: 30px}
+	dl {font-size: 19px}
+
+	.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+.mycontainer div {
+  width:33%;
+  float:left;
+}
+
+a {color: whitesmoke;}
